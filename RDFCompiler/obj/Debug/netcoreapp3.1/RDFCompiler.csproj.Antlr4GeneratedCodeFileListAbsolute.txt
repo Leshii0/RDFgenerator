@@ -1,0 +1,6 @@
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammLexer.cs
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammParser.cs
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammListener.cs
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammBaseListener.cs
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammVisitor.cs
+F:\temp\RDFCompiler\RDFCompiler\obj\Debug\netcoreapp3.1\GrammBaseVisitor.cs
